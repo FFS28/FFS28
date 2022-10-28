@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FFS28
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning C# and Java
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ASP.NET development
 - 📫 How to reach me roylevisay28@gmail.com
 
