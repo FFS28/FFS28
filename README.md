@@ -9,9 +9,9 @@
 - **[ Clean & Efficent code | Perfect result | Best Quality |  On-time Delivery ]**
 - [ App architecture | Full documentation | Continuous integration | Task prioritization | Automatic deployment ]
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ffs28&column=7&theme=onedark" />
-</div>
+</div> -->
 
 
 <h1 align="center">
