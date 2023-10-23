@@ -1,5 +1,3 @@
-I'm **Joseph Holdemann**
-
 <p>
 Highly-skilled full-stack developer with over five years of experience in React development. 
 Proficient in translating designs into high-quality code and implementing highly-responsive user interface components with react concepts. 
