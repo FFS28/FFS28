@@ -1,5 +1,5 @@
 <p>
-Highly-skilled full-stack developer with over five years of experience in React development. 
+Highly-skilled full-stack developer with over three years of experience in React development. 
 Proficient in translating designs into high-quality code and implementing highly-responsive user interface components with react concepts. 
 My primary focus is on web and mobile development. 
 Keen on writing clean, and reusable code using best practices.
