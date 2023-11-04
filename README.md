@@ -12,10 +12,10 @@ Keen on writing clean, and reusable code using best practices.
 - App architecture | Full documentation | Continuous integration | Task prioritization | Automatic deployment
 
 ### **Main Development :**
-- HTML | CSS | PHP | JavaScript | TypeScript | Python
+- HTML | CSS | PHP | JavaScript | TypeScript
 - React | Vue | Svelte
 - Tailwind | MUI | Chakra UI | React Bootstrap
-- Laravel | CodeIgniter | Wordpress | MERN Stack | NEXT | NUXT | Django | Flask 
+- MERN Stack | NEXT | Django 
 
 ##
 
